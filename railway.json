@@ -1,0 +1,9 @@
+{
+  "services": [
+    {
+      "name": "app",
+      "buildCommand": "docker compose build",
+      "startCommand": "docker compose up"
+    }
+  ]
+}
